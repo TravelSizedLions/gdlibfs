@@ -1,0 +1,15 @@
+{
+  "$schema": "https://chickensoft.games/schemas/addons.schema.json",
+  "name": "godot-fs",
+  "description": "A file system utility for godot.",
+  "version": "0.0.0",
+  "cache": "../.addons",
+  "addons": {
+    "funk": {
+      "url": "https://github.com/TravelSizedLions/funk.git",
+      "subfolder": "addons/funk",
+      "source": "remote",
+      "checkout": "dev"
+    }
+  }
+}
