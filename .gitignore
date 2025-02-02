@@ -2,6 +2,4 @@
 .godot/
 addons/*
 !addons/.editorconfig
-!addons/fs/
-.addons/*
-!.addons/.gdignore
+!addons/gdlibfs/
