@@ -11,4 +11,5 @@ config_version=5
 [application]
 
 config/name="gdlibfs"
+run/main_scene="uid://d2ve66nhe5u8"
 config/features=PackedStringArray("4.4", "Forward Plus")
