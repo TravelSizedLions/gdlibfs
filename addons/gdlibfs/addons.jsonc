@@ -2,7 +2,7 @@
   "$schema": "https://chickensoft.games/schemas/addons.schema.json",
   "name": "gdlibfs",
   "description": "Common godot file system utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "cache": "../.addons",
   "addons": {}
 }
